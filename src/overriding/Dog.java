@@ -1,5 +1,7 @@
 package overriding;
 
+import overriding.Animal;
+
 public class Dog extends Animal {
 
 
